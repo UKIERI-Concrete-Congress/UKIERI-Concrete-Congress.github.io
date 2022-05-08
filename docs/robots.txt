@@ -1,0 +1,23 @@
+User-agent: dotbot
+Disallow: /
+ted Range Not Satisfiable</title></head>
+<body bgcolor="white">
+<center><h1>416 Requested Range Not Satisfiable</h1></center>
+<hr><center>nginx/1.10.3 (Ubuntu)</center>
+</body>
+</html>
+HTTP/1.1 416 Requested Range Not Satisfiable
+Server: nginx/1.10.3 (Ubuntu)
+Date: Sun, 08 May 2022 01:34:32 GMT
+Content-Type: text/html
+Content-Length: 222
+Connection: keep-alive
+Content-Range: bytes */31
+
+<html>
+<head><title>416 Requested Range Not Satisfiable</title></head>
+<body bgcolor="white">
+<center><h1>416 Requested Range Not Satisfiable</h1></center>
+<hr><center>nginx/1.10.3 (Ubuntu)</center>
+</body>
+</html>
